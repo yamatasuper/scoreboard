@@ -21293,9 +21293,9 @@ a_i(){var s=0,r=A.Y(t.BU),q,p,o,n,m,l,k,j,i,h
 var $async$a_i=A.Z(function(a,b){if(a===1)return A.V(b,r)
 while(true)switch(s){case 0:n=A.a2U()
 m=n.gAx().i(0,"object_type")
-if(m==null)m="TERMINAL"
+if(m==null)m=""
 p=n.gAx().i(0,"object_id")
-o=A.abo(p==null?"6":p,null)
+o=A.abo(p==null?"":p,null)
 if(o==null)o=0
 l=A
 k=A
